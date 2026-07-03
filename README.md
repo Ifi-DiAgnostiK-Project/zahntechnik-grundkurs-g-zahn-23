@@ -139,7 +139,7 @@ Welche Begriffe werden synonym für "Kauebene" verwendet?
 <center>
 
 
-![](assets/images/arbeiter_an_gebiss.jpg "_Quelle: Pixabay, marofedermann_")<!-- style="width: 400px" -->
+![Nahaufnahme eines geöffneten Mundes mit sichtbaren Zähnen während einer zahnärztlichen Untersuchung.](assets/images/arbeiter_an_gebiss.jpg "Zahnärztliche Untersuchung mit Fokus auf Zähne und Mundraum. Bild von [marcofedermann via Pixabay](https://pixabay.com/photos/teeth-dentist-tooth-dental-mouth-6062743/), Pixabay Content License, veröffentlicht am 3. März 2021.")<!-- style="width: 400px" -->
 
 </center>
 
@@ -223,7 +223,7 @@ Wie groß sollte der Mindestabstand einer digital konstruierten Schiene zum marg
 <center>
 
 
-![Fragezeichen](assets/images/fragezeichen.jpg "_Quelle: Pixabay, Peggy+Marco_")<!-- style="max-width: 200px; width: 100%" -->
+![Rotes Fragezeichen als Symbol für Fragen, Hilfe und Antworten.](assets/images/fragezeichen.jpg "Fragezeichen als Symbol für Fragen, Hilfe und Antworten. Bild von [geralt via Pixabay](https://pixabay.com/de/photos/frage-fragezeichen-hilfe-antwort-2309042/), Pixabay Content License.")<!-- style="max-width: 200px; width: 100%" -->
 
 
 </center>
@@ -233,5 +233,5 @@ Wie groß sollte der Mindestabstand einer digital konstruierten Schiene zum marg
 
 
 <center>
-![Jubel](assets/images/colorfull_jumping.jpg "_Quelle: Pixabay, geralt_")
+![Bunte Silhouetten mehrerer springender Menschen vor weißem Hintergrund als Symbol für Freude, Spaß und Lebensfreude.](assets/images/colorfull_jumping.jpg "Farbige Silhouetten springender Menschen als Ausdruck von Freude und Spaß. Bild von [geralt via Pixabay](https://pixabay.com/de/illustrations/freude-springen-luftsprung-spa%C3%9F-3940425/), Pixabay Content License, veröffentlicht am 19. Januar 2019.")
 </center>
